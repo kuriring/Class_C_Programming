@@ -2,7 +2,7 @@
 #include <windows.h> 
 #include <string.h>
 #define SIZE 100
- 
+
 typedef struct {
     char title[50];        
     char singer[50];    

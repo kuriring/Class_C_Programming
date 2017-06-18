@@ -1,0 +1,2 @@
+name	korean	math	english
+sdsd	90	80	70
